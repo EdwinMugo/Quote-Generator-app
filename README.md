@@ -29,7 +29,7 @@ The Quote Generator App is a JavaScript project that allows users to dynamically
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/quote-generator-app.git
+   git clone https://github.com/EdwinMugo/Quote-Generator-app.git
    ```
 
 2. Open the project in your preferred code editor.
@@ -38,10 +38,6 @@ The Quote Generator App is a JavaScript project that allows users to dynamically
    - If using Visual Studio Code, you can use the Live Server extension for a quick and hassle-free setup.
 
 4. Start generating and sharing inspiring quotes!
-
-## Credits and Acknowledgments 🙌
-
-- **API:** The project leverages the power of [API_NAME] to provide a diverse collection of quotes.
 
 ## Future Enhancements 🌟
 
@@ -55,14 +51,11 @@ The Quote Generator App is a JavaScript project that allows users to dynamically
 
 Contributions are welcome! If you have ideas for improvements, please submit a pull request.
 
-## License 📝
-
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Connect with the Developer 🌐
 
-- **Author:** [Your Name]
-- **GitHub:** [Your GitHub Profile]
+- **Author:**Edwin Mugo
+- **GitHub:** [https://github.com/EdwinMugo]
 
 Feel free to reach out for feedback, suggestions, or collaboration opportunities!
 
